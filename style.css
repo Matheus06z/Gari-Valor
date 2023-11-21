@@ -143,6 +143,12 @@ main div{
         width: 100%;
         height: 100%;
     }
+
+    .section-one p{
+      text-align: justify;
+      margin: 0px ;
+      color: white;
+    }
   
   .nav-list.active {
     transform: translateX(0);
